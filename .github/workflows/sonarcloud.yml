@@ -33,5 +33,3 @@ jobs:
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SONAR_PROJECTKEY: "UQAM MGL7760 Groupe 5 Hiver 2026" 
-          SONAR_ORGANIZATION: "uqam-mgl7760-groupe-5-hiver-2026-thierry-meriem-gwendal"
